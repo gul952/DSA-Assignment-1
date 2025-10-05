@@ -1,5 +1,3 @@
-```markdown
-
 ## Overview
 This repository contains three small C++ projects implemented
 Projects:
@@ -14,7 +12,7 @@ All code targets `g++ -std=c++17`.
 
 ```
 
-[https://github.com/](https://github.com/)<your-username>/<your-repo-name>
+[https://github.com/](https://github.com/)<your-username>/<your-repo-name>](https://github.com/gul952/DSA-Assignment-1)
 
 ````
 
@@ -107,9 +105,3 @@ Player 1's turn, Direction: Clockwise, Top: Blue 8, Players cards: P0:7, P1:6
 * **UNO specifics**: Handling Reverse with 2 players, deck exhaustion (reshuffle discard except top), Draw Two effects, and stalemate detection required explicit rules and testing.
 * **Testing**: Ensuring identical shuffles across runs mandated seeding the RNG (`1234`).
 
-## License
-
-Use for coursework. Add a LICENSE file if you plan public distribution.
-
-```
-```
