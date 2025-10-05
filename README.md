@@ -12,7 +12,7 @@ All code targets `g++ -std=c++17`.
 
 ```
 
-[https://github.com/](https://github.com/)<your-username>/<your-repo-name>](https://github.com/gul952/DSA-Assignment-1)
+https://github.com/gul952/DSA-Assignment-1
 
 ````
 
